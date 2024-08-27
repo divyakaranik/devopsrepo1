@@ -1,1 +1,2 @@
-This is file1 in branch1.Changes done for branchA.
+This is file1 in branch1.Updating for branchB and branch A.
+
